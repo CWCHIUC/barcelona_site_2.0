@@ -43,7 +43,8 @@
     border-radius: 25px;
     background: rgba(0, 0, 0, 0.6);
     backdrop-filter: blur(30px);
-    overflow: hidden;
+    overflow-x: scroll;
+    overflow-y: hidden;
    
 }
 
